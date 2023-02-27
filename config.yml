@@ -1,5 +1,6 @@
 theme: "PaperMod"
-baseURL: "https://zanle93.github.io/my-portfolio"
+# baseURL: "https://zanle93.github.io/my-portfolio"
+baseURL: "https://hellovanle.com/"
 publishDir: "docs"
 languageCode: en-us
 title: Van Le
