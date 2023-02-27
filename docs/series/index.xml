@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Series on Van Le</title>
-    <link>https://github.com/zanle93/my-portfolio/series/</link>
+    <link>https://zanle93.github.io/my-portfolio/series/</link>
     <description>Recent content in Series on Van Le</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://github.com/zanle93/my-portfolio/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://zanle93.github.io/my-portfolio/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
