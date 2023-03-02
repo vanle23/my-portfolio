@@ -16,7 +16,6 @@ I’m an innovative and solution-driven busines analyst. With a passion for expl
 # Contact
 
 - Linkedin: [linkedin.com//van-le2023](https://www.linkedin.com/in/van-le2023/)
-- Mobile: [657-256-2389](tel:657-256-2389)
 - Email: [hellovanle@gmail.com](mailto:hellovanle@gmail.com)
 
 # Resume
